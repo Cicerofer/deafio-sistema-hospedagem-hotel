@@ -1,0 +1,4 @@
+C:\Projetos\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Projetos\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Projetos\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
